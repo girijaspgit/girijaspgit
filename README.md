@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @girijaspgit
 - 👀 I’m interested in AI/ML powered automation
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on PDF data scan and RAG pipeline
+- 💞️ I’m looking to collaborate on RAG pipeline, agentic ai, and application buiding
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to ride ride harley
 
